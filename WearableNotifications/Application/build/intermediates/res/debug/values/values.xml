@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/Users/bangchangbae/AndroidStudioProjects/WearableNotifications/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.0/res/values/values.xml -->
+    <eat-comment/>
+    <color name="cardview_dark_background">#FF202020</color>
+    <color name="cardview_light_background">#FFFAFAFA</color>
+    <color name="cardview_shadow_end_color">#03000000</color>
+    <color name="cardview_shadow_start_color">#37000000</color>
+    <!-- From: file:/Users/bangchangbae/AndroidStudioProjects/WearableNotifications/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.8.0/res/values/common_colors.xml -->
+    <eat-comment/>
+    <color name="common_action_bar_splitter">#d2d2d2</color>
+    <color name="common_signin_btn_dark_text_default">@android:color/white</color>
+    <color name="common_signin_btn_dark_text_disabled">#FFAAAAAA</color>
+    <color name="common_signin_btn_dark_text_focused">@android:color/white</color>
+    <color name="common_signin_btn_dark_text_pressed">@android:color/white</color>
+    <color name="common_signin_btn_default_background">#FFDD4B39</color>
+    <color name="common_signin_btn_light_text_default">#FF737373</color>
+    <color name="common_signin_btn_light_text_disabled">#FFAAAAAA</color>
+    <color name="common_signin_btn_light_text_focused">#FF737373</color>
+    <color name="common_signin_btn_light_text_pressed">@android:color/white</color>
+    <!-- From: file:/Users/bangchangbae/AndroidStudioProjects/WearableNotifications/Application/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="divider_text">@android:color/holo_blue_dark</color>
+    <declare-styleable name="CardView"><attr format="color" name="cardBackgroundColor"/><attr format="dimension" name="cardCornerRadius"/><attr format="dimension" name="cardElevation"/><attr format="dimension" name="cardMaxElevation"/><attr format="boolean" name="cardUseCompatPadding"/><attr format="boolean" name="cardPreventCornerOverlap"/><attr format="dimension" name="contentPadding"/><attr format="dimension" name="contentPaddingLeft"/><attr format="dimension" name="contentPaddingRight"/><attr format="dimension" name="contentPaddingTop"/><attr format="dimension" name="contentPaddingBottom"/></declare-styleable>
+    <declare-styleable name="LoadingImageView"><attr format="enum" name="imageAspectRatioAdjust"><enum name="none" value="0"/><enum name="adjust_width" value="1"/><enum name="adjust_height" value="2"/></attr><attr format="float" name="imageAspectRatio"/><attr format="boolean" name="circleCrop"/></declare-styleable>
+    <!-- From: file:/Users/bangchangbae/AndroidStudioProjects/WearableNotifications/Application/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/Users/bangchangbae/AndroidStudioProjects/WearableNotifications/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.0/res/values/values.xml -->
+    <eat-comment/>
+    <dimen name="cardview_compat_inset_shadow">1dp</dimen>
+    <dimen name="cardview_default_elevation">2dp</dimen>
+    <dimen name="cardview_default_radius">2dp</dimen>
+    <!-- From: file:/Users/bangchangbae/AndroidStudioProjects/WearableNotifications/Application/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="editor_item_padding_bottom">8dp</dimen>
+    <dimen name="editor_item_padding_top">8dp</dimen>
+    <dimen name="editor_spinner_caption_min_width">50dp</dimen>
+    <dimen name="editor_text_size">12dp</dimen>
+    <!-- From: file:/Users/bangchangbae/AndroidStudioProjects/WearableNotifications/Application/src/main/res/values/template-dimens.xml -->
+    <eat-comment/>
+    <dimen name="horizontal_page_margin">@dimen/margin_medium</dimen>
+    <!-- From: file:/Users/bangchangbae/AndroidStudioProjects/WearableNotifications/Application/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="image_picker_item_side">48dp</dimen>
+    <!-- From: file:/Users/bangchangbae/AndroidStudioProjects/WearableNotifications/Application/src/main/res/values/template-dimens.xml -->
+    <eat-comment/>
+    <dimen name="margin_huge">64dp</dimen>
+    <dimen name="margin_large">32dp</dimen>
+    <dimen name="margin_medium">16dp</dimen>
+    <dimen name="margin_small">8dp</dimen>
+    <dimen name="margin_tiny">4dp</dimen>
+    <dimen name="vertical_page_margin">@dimen/margin_medium</dimen>
+    <!-- From: file:/Users/bangchangbae/AndroidStudioProjects/WearableNotifications/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.8.0/res/values/version.xml -->
+    <eat-comment/>
+    <integer name="google_play_services_version">7895000</integer>
+    <!-- From: file:/Users/bangchangbae/AndroidStudioProjects/WearableNotifications/Application/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="actions">Actions</string>
+    <!-- From: file:/Users/bangchangbae/AndroidStudioProjects/WearableNotifications/Application/src/main/res/values/base-strings.xml -->
+    <eat-comment/>
+    <string name="app_name">Wearable Notifications</string>
+    <!-- From: file:/Users/bangchangbae/AndroidStudioProjects/WearableNotifications/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.8.0/res/values/auth_strings.xml -->
+    <eat-comment/>
+    <string name="auth_google_play_services_client_facebook_display_name">Facebook</string>
+    <string name="auth_google_play_services_client_google_display_name">Google</string>
+    <!-- From: file:/Users/bangchangbae/AndroidStudioProjects/WearableNotifications/Application/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="barcode_content_text">Swipe to view</string>
+    <string name="barcode_content_title">Barcode example</string>
+    <string name="barcode_example">Barcode example</string>
+    <string name="basic_example">Basic example</string>
+    <string name="bg_picker_label">Page %s background: </string>
+    <string name="big_picture_example">Big picture example</string>
+    <string name="big_picture_style_example_summary_text">Big picture style example summary</string>
+    <string name="big_picture_style_example_title">Big picture style example title</string>
+    <string name="big_text_example">Big text example</string>
+    <string name="big_text_example_big_text">
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
+        incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+        exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure
+        dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+        Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
+        anim id est laborum.
+
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
+        incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+        exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure
+        dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+        Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
+        anim id est laborum.
+
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
+        incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+        exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure
+        dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+        Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
+        anim id est laborum.
+
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
+        incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+        exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure
+        dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+        Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
+        anim id est laborum.
+
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
+        incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+        exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure
+        dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+        Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
+        anim id est laborum.
+
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
+        incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+        exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure
+        dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+        Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
+        anim id est laborum.
+
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
+        incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+        exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure
+        dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+        Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
+        anim id est laborum.
+
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
+        incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+        exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure
+        dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+        Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
+        anim id est laborum.
+
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
+        incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+        exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure
+        dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+        Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
+        anim id est laborum.
+
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
+        incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+        exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure
+        dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+        Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
+        anim id est laborum.
+
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
+        incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+        exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure
+        dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+        Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
+        anim id est laborum.
+    </string>
+    <string name="big_text_example_summary_text">Big text example summary</string>
+    <string name="big_text_example_title">Big text example title</string>
+    <string name="bottom_aligned_example">Bottom-aligned example</string>
+    <string name="bundle_example">Bundle example</string>
+    <!-- From: file:/Users/bangchangbae/AndroidStudioProjects/WearableNotifications/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.8.0/res/values/common_strings.xml -->
+    <eat-comment/>
+    <string name="common_android_wear_notification_needs_update_text"><ns1:g id="app_name">%1$s</ns1:g> requires an update to the Android Wear app.</string>
+    <string name="common_android_wear_update_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t run unless you update the Android Wear app.</string>
+    <string msgid="6006316683626838685" name="common_android_wear_update_title">Update Android Wear</string>
+    <string name="common_google_play_services_api_unavailable_text"><ns1:g id="app_name">%1$s</ns1:g> requires one or more Google Play services that are not currently available. Please contact the developer for assistance.</string>
+    <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Enable Google Play services</string>
+    <string msgid="227660514972886228" name="common_google_play_services_enable_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t work unless you enable Google Play services.</string>
+    <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">Requested by <ns1:g id="app_name">%1$s</ns1:g></string>
+    <string msgid="7153882981874058840" name="common_google_play_services_install_button">Get Google Play services</string>
+    <string msgid="2122112764540849864" name="common_google_play_services_install_text_phone"><ns1:g id="app_name">%1$s</ns1:g> won\'t run without Google Play services, which are missing from your phone.</string>
+    <string msgid="7351599665250191022" name="common_google_play_services_install_text_tablet"><ns1:g id="app_name">%1$s</ns1:g> won\'t run without Google Play services, which are missing from your tablet.</string>
+    <string msgid="7215213145546190223" name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_invalid_account_text">The specified account does not exist on this device. Please choose a different account.</string>
+    <string name="common_google_play_services_invalid_account_title">Invalid Account</string>
+    <string name="common_google_play_services_needs_enabling_title">An application requires Google Play services to be enabled.</string>
+    <string name="common_google_play_services_network_error_text">A data connection is required to connect to Google Play services.</string>
+    <string name="common_google_play_services_network_error_title">Network Error</string>
+    <string name="common_google_play_services_notification_needs_update_title">An application requires an update for Google Play services.</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_sign_in_failed_text">Error signing in the specified account. Please choose a different account.</string>
+    <string name="common_google_play_services_sign_in_failed_title">Sign in failed</string>
+    <string name="common_google_play_services_unknown_issue">Unknown issue with Google Play services.</string>
+    <string name="common_google_play_services_unsupported_text"><ns1:g id="app_name">%1$s</ns1:g> relies on Google Play services, which is not supported by your device. Contact the manufacturer for assistance.</string>
+    <string name="common_google_play_services_unsupported_title">Google Play services</string>
+    <string msgid="6556509956452265614" name="common_google_play_services_update_button">Update</string>
+    <string msgid="9053896323427875356" name="common_google_play_services_update_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t run unless you update Google Play services.</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t run without Google Play services, which are currently updating.</string>
+    <string name="common_google_play_services_updating_title">Google Play services are updating</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <!-- From: file:/Users/bangchangbae/AndroidStudioProjects/WearableNotifications/Application/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="content_action_example">Content action example</string>
+    <string name="content_icon_example">Content icon example</string>
+    <string name="content_intent_clicked">Content intent clicked</string>
+    <string name="default_priority">Default priority</string>
+    <string name="different_actions_on_phone_and_wearable">Different on phone and wearable</string>
+    <string name="example_action">Example action</string>
+    <string name="example_action_clicked">Example action clicked</string>
+    <string name="example_action_long_title">Example action with a long title which wraps</string>
+    <string name="example_content_action2_clicked">Example content action 2 clicked</string>
+    <string name="example_content_action_clicked">Example content action clicked</string>
+    <string name="example_content_text">주변에 GS25가 있습니다.</string>
+    <string name="example_content_title">해야G</string>
+    <string name="example_notification_deleted">Example notification deleted</string>
+    <string name="example_reply_action">Example reply action</string>
+    <string name="example_reply_action_clicked">Example reply action clicked</string>
+    <string name="example_reply_answer_label">Answer?</string>
+    <string name="example_reply_label">Message?</string>
+    <string name="first_child_content_text">
+        First child text. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+        tempor incididunt ut labore et dolore magna aliqua.</string>
+    <string name="first_child_content_title">First child title</string>
+    <string name="fourth_page_content_text">Fourth page text</string>
+    <string name="fourth_page_content_title">Fourth page title</string>
+    <string name="gravity_example">Gravity example</string>
+    <string name="high_priority">High priority</string>
+    <string name="inbox_example">Inbox example</string>
+    <string name="inbox_style_example_line1">Inbox style example line 1</string>
+    <string name="inbox_style_example_line2">Inbox style example line 2</string>
+    <string name="inbox_style_example_line3">Inbox style example line 3</string>
+    <string name="inbox_style_example_summary_text">Inbox style example summary</string>
+    <string name="inbox_style_example_title">Inbox style example title</string>
+    <string name="include_content_intent">Include content intent</string>
+    <string name="include_large_icon">Include large icon</string>
+    <!-- From: file:/Users/bangchangbae/AndroidStudioProjects/WearableNotifications/Application/src/main/res/values/base-strings.xml -->
+    <eat-comment/>
+    <string name="intro_message">
+        <![CDATA[
+        
+            
+This sample application provides a showcase of available notification styles and
+demonstrates various features of the Android Wear notifications API. Running the sample on your
+companion allows you to select between various notification styles and to see how these
+notifications are displayed, both in a phone\'s notification shade and on the wearable.
+            
+        
+        ]]>
+    </string>
+    <!-- From: file:/Users/bangchangbae/AndroidStudioProjects/WearableNotifications/Application/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="local_only">Local only</string>
+    <string name="long_title_action">Single action with a long title</string>
+    <string name="low_priority">Low priority</string>
+    <string name="max_priority">Max priority</string>
+    <string name="maybe">Maybe</string>
+    <string name="min_priority">Min priority</string>
+    <string name="multiple_page_example">Multiple page example</string>
+    <string name="no">No</string>
+    <string name="no_actions">No actions</string>
+    <string name="phone_action">Phone action</string>
+    <string name="phone_action_clicked">Phone action clicked</string>
+    <string name="preset">Preset</string>
+    <string name="priority">Priority</string>
+    <string name="properties">Properties</string>
+    <string name="reply_action">Reply action</string>
+    <string name="reply_action_with_choices">Reply action with choices</string>
+    <string name="second_child_action">Second child action</string>
+    <string name="second_child_action_clicked">Second child action clicked</string>
+    <string name="second_child_content_text">
+        Second child text. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+        tempor incididunt ut labore et dolore magna aliqua.</string>
+    <string name="second_child_content_title">Second child title</string>
+    <string name="second_page_content_text">Second page text</string>
+    <string name="second_page_content_title">Second page title</string>
+    <string name="single_action">Single action</string>
+    <string name="stylized_text_example">Stylized text example</string>
+    <string name="text">Text</string>
+    <string name="third_page_content_text">Third page text</string>
+    <string name="third_page_content_title">Third page title</string>
+    <string name="title">Title</string>
+    <string name="vibrate">Vibrate</string>
+    <string name="wearable_action">Wearable action</string>
+    <string name="wearable_action_clicked">Wearable action clicked</string>
+    <string name="yes">Yes</string>
+    <!-- From: file:/Users/bangchangbae/AndroidStudioProjects/WearableNotifications/Application/src/main/res/values/template-styles.xml -->
+    <eat-comment/>
+    <style name="AppTheme" parent="Theme.Sample"/>
+    <!-- From: file:/Users/bangchangbae/AndroidStudioProjects/WearableNotifications/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.0/res/values/values.xml -->
+    <eat-comment/>
+    <style name="CardView">
+        <item name="cardBackgroundColor">@color/cardview_light_background</item>
+        <item name="cardCornerRadius">@dimen/cardview_default_radius</item>
+        <item name="cardElevation">@dimen/cardview_default_elevation</item>
+        <item name="cardMaxElevation">@dimen/cardview_default_elevation</item>
+        <item name="cardUseCompatPadding">false</item>
+        <item name="cardPreventCornerOverlap">true</item>
+    </style>
+    <style name="CardView.Dark">
+        <item name="cardBackgroundColor">@color/cardview_dark_background</item>
+    </style>
+    <style name="CardView.Light">
+        <item name="cardBackgroundColor">@color/cardview_light_background</item>
+    </style>
+    <!-- From: file:/Users/bangchangbae/AndroidStudioProjects/WearableNotifications/Application/src/main/res/values/template-styles.xml -->
+    <eat-comment/>
+    <style name="Theme.Base" parent="android:Theme.Light"/>
+    <style name="Theme.Sample" parent="Theme.Base"/>
+    <style name="Widget"/>
+    <style name="Widget.SampleMessage">
+        <item name="android:textAppearance">?android:textAppearanceMedium</item>
+        <item name="android:lineSpacingMultiplier">1.1</item>
+    </style>
+    <style name="Widget.SampleMessageTile">
+        <item name="android:background">@drawable/tile</item>
+        <item name="android:shadowColor">#7F000000</item>
+        <item name="android:shadowDy">-3.5</item>
+        <item name="android:shadowRadius">2</item>
+    </style>
+    <!-- From: file:/Users/bangchangbae/AndroidStudioProjects/WearableNotifications/Application/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="bg_picker">
+        <item name="android:layout_marginLeft">16dp</item>
+        <item name="android:background">@drawable/unselected_background</item>
+    </style>
+</resources>

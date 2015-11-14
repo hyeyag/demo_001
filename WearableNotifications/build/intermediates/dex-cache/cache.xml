@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/bangchangbae/AndroidStudioProjects/WearableNotifications/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="/Users/bangchangbae/AndroidStudioProjects/WearableNotifications/Wearable/build/intermediates/pre-dexed/debug/classes-51e9748405663aed2ff92c1c5217028f6781ad7c.jar" />
+    </item>
+    <item
+        jar="/Users/bangchangbae/AndroidStudioProjects/WearableNotifications/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/Users/bangchangbae/AndroidStudioProjects/WearableNotifications/Wearable/build/intermediates/pre-dexed/debug/classes-a4aa411f59680ef542e0f17728a3954e319b440b.jar" />
+    </item>
+    <item
+        jar="/Users/bangchangbae/AndroidStudioProjects/WearableNotifications/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="97f3b099801a9ad9d70e835b9125273e986eb68d">
+        <dex dex="/Users/bangchangbae/AndroidStudioProjects/WearableNotifications/Wearable/build/intermediates/pre-dexed/debug/classes-2cf69cd006343870357c6035e5c73f8f956c659b.jar" />
+    </item>
+
+</items>
